@@ -1,0 +1,24 @@
+{
+    "name": "rexponse",
+    "version": "0.2.0",
+    "description": "Express REST API Response Handler",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/elchinzadeh/rexponse.git"
+    },
+    "keywords": [
+        "express",
+        "response",
+        "rest"
+    ],
+    "author": "Elchin Zakizadeh",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/elchinzadeh/rexponse/issues"
+    },
+    "homepage": "https://github.com/elchinzadeh/rexponse#readme"
+}
